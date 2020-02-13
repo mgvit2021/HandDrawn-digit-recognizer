@@ -1,2 +1,2 @@
 # Convolutional Neural Networks
-Convolutional neural network to recognize images of numbers using Keras.
+Convolutional neural network to recognize images of numbers using Keras. UI made using tkinter.
